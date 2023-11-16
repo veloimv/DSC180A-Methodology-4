@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Isa Vidanes<br>
-ividanes@ucsd.edu
+Isa Vidanes and Priscilla Hui
